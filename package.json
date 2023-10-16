@@ -1,37 +1,37 @@
 {
-  "name": "web-guided-project-cypress",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "parcel src/index.html",
-    "server": "node server.js",
-    "test": "cypress open"
-  },
-  "keywords": [],
-  "author": "Gabriel Cabrejas",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.26.0",
-    "cors": "^2.8.5",
-    "eslint-plugin-cypress": "^2.12.1",
-    "express": "^4.17.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "uuid": "^8.3.2"
-  },
-  "devDependencies": {
-    "cypress": "^9.5.1",
-    "eslint": "^8.10.0",
-    "eslint-plugin-react": "^7.29.2",
-    "less": "^4.1.2",
-    "parcel-bundler": "^1.12.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BloomInstituteOfTechnology/web-guided-project-cypress.git"
-  },
-  "bugs": {
-    "url": "https://github.com/BloomInstituteOfTechnology/web-guided-project-cypress/issues"
-  },
-  "homepage": "https://github.com/BloomInstituteOfTechnology/web-guided-project-cypress#readme"
+    "name": "web-guided-project-cypress",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel src/index.html",
+        "server": "node server.js",
+        "test": "cypress open"
+    },
+    "keywords": [],
+    "author": "Gabriel Cabrejas",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "cors": "^2.8.5",
+        "eslint-plugin-cypress": "^2.12.1",
+        "express": "^4.17.3",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+        "cypress": "^9.7.0",
+        "eslint": "^8.10.0",
+        "eslint-plugin-react": "^7.29.2",
+        "less": "^4.1.2",
+        "parcel-bundler": "^1.12.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BloomInstituteOfTechnology/web-guided-project-cypress.git"
+    },
+    "bugs": {
+        "url": "https://github.com/BloomInstituteOfTechnology/web-guided-project-cypress/issues"
+    },
+    "homepage": "https://github.com/BloomInstituteOfTechnology/web-guided-project-cypress#readme"
 }
